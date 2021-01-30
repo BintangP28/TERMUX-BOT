@@ -48,6 +48,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
 <details>
+
 # TERMUX-BOT
 Simple WhatsApp Bot
 
